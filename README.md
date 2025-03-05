@@ -1,1 +1,1 @@
-# Personal
+# Pneumonia Detection Syatem
